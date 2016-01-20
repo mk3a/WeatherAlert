@@ -1,5 +1,5 @@
 # WeatherAlert
-Texts me weather Alerts if the weather is too bad.
+Texts me weather alerts if the weather is too bad.
 ###Usage
 It uses uwaterloo's open data to extract weather info and hence works for only waterloo.
 I chose uwaterloo's open data and not something more general as I live on campus and I think the data source I chose is more accurate for local uwaterloo weather than the general waterloo region weather.
